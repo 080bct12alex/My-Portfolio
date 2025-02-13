@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Portfolio-main/static/css/main.bf538fe7.css",
+    "main.js": "/Portfolio-main/static/js/main.9535012c.js",
+    "static/media/Shrestha.JPG": "/Portfolio-main/static/media/Shrestha.3db6f06e3a4fd6ae49fd.JPG",
+    "index.html": "/Portfolio-main/index.html",
+    "main.bf538fe7.css.map": "/Portfolio-main/static/css/main.bf538fe7.css.map",
+    "main.9535012c.js.map": "/Portfolio-main/static/js/main.9535012c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.9535012c.js"
+  ]
+}
