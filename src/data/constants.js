@@ -1,7 +1,7 @@
 export const Bio = {
   name: "Alex Shrestha",
   roles: [
-    "Full Stack Developer",
+    "Full Stack Web  Developer",
     "ML enthusiast",
     "Programmer",
   ],
@@ -61,13 +61,7 @@ export const skills = [
       
     ],
   },
-  {
-    title: "Android",
-    skills: [
-      
-      
-    ],
-  },
+  
   {
     title: "Others",
     skills: [
@@ -77,7 +71,11 @@ export const skills = [
           "https://avatars.githubusercontent.com/u/18133?s=280&v=4",
       },
       
-     
+      {
+        name: "Git Hub",
+        image:
+          "https://avatars.slack-edge.com/2020-11-25/1527503386626_319578f21381f9641cd8_512.png",
+      },
       
       {
         name: "Postman",
@@ -118,9 +116,38 @@ export const education = [
 ];
 
 export const projects = [
- 
 
+  {
+    id: 0,
+    title: "Swiftly- Click. Shop. Smile 🛒",
+    description:
+      "SWIFTLY  is a web application designed for E-Commerce ",
+    image:
+      "https://i.ibb.co/Z1X8trVr/swiftly.jpg",
+    tags: [
+       "MERN" ,  "MongoDB" ,"Redis" ,  "Stripe" , " Robust" , "JWT"
+    ],
+    category: "web app",
+    github: "https://github.com/080bct12alex/swiftly-click.shop.smile",
+    webapp: "https://swiftly-click-shop-smile.onrender.com",
+  },
+  {
+    id: 1,
+    title: "Bondr- Swipe. Chat. Bond",
+    description:
+      "Bondr  is a web application designed for real time chat",
+    image:
+      "https://i.ibb.co/ZqTwcjk/bondr.jpg",
+    tags: [
+       "MERN" ,  "Socket.io" ,"Zustand" ,  "React context " , "  JWT" , "TailwindCSS "
+    ],
+    category: "web app",
+    github: "https://github.com/080bct12alex/Bondr-Swipe.Chat.Bond",
+    webapp: "https://bondr-swipe-chat-bond.onrender.com",
+  },
+  
 ];
+
 
 export const TimeLineData = [
   { year: 2024, text: "Started my journey" },
