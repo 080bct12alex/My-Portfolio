@@ -58,6 +58,11 @@ export const skills = [
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
       },
+       {
+        name: "PostgreSQL",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png",
+      },
       
     ],
   },
@@ -124,7 +129,7 @@ export const projects = [
     id: 0,
     title: "Swiftly- Click. Shop. Smile 🛒",
     description:
-      "SWIFTLY  is a web application designed for E-Commerce ",
+      "A web application designed for E-Commerce ",
     image:
       "https://i.ibb.co/Z1X8trVr/swiftly.jpg",
     tags: [
@@ -132,13 +137,13 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/080bct12alex/swiftly-click.shop.smile",
-    webapp: "https://swiftly-click-shop-smile.onrender.com",
+    webapp: "https://swiftly-shop.onrender.com",
   },
   {
     id: 1,
     title: "Bondr- Swipe. Chat. Bond",
     description:
-      "Bondr  is a web application designed for real time chat",
+      "A web application designed for real time chat",
     image:
       "https://i.ibb.co/ZqTwcjk/bondr.jpg",
     tags: [
@@ -146,8 +151,25 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/080bct12alex/Bondr-Swipe.Chat.Bond",
-    webapp: "https://bondr-swipe-chat-bond.onrender.com",
+    webapp: "https://bondr.onrender.com",
   },
+
+   {
+    id: 2,
+    title: "Mend - Heal together, grow together.",
+    description:
+      "A modern social media application powered by Next.js",
+    image:
+      "https://i.ibb.co/FL0S9YgJ/mend.jpg",
+    tags: [
+       "MERN" ,"Next.js","PostgreSQL" ,"TypeScript" , "TailwindCSS "
+    ],
+    category: "web app",
+    github: "https://github.com/080bct12alex/mend-Heal-together-grow-together",
+    webapp: "https://mend-one.vercel.app",
+  },
+
+  
   
 ];
 
