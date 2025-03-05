@@ -169,6 +169,21 @@ export const projects = [
     webapp: "https://mend-one.vercel.app",
   },
 
+   {
+    id: 3,
+    title: "CoCode-CodeLess,CreateMore.",
+    description:
+      "A online code editing playground  powered by Next.js",
+    image:
+      "https://ibb.co/R5cxcq8",
+    tags: [
+       "MERN" ,"Next.js","Convex" ,"TypeScript" 
+    ],
+    category: "web app",
+    github: "https://github.com/080bct12alex/CoCode-Code-Less-Create-Morer",
+    webapp: "https://cocode-editor.vercel.app",
+  },
+
   
   
 ];
