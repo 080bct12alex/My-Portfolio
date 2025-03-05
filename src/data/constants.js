@@ -175,7 +175,7 @@ export const projects = [
     description:
       "A online code editing playground  powered by Next.js",
     image:
-      "https://ibb.co/R5cxcq8",
+      "https://i.ibb.co/4Qp6pHk/cocode.jpg",
     tags: [
        "MERN" ,"Next.js","Convex" ,"TypeScript" 
     ],
