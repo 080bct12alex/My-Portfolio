@@ -196,7 +196,7 @@ export const projects = [
     ],
     category: "android app",
     github: "https://github.com/080bct12alex/MovieMagnet",
-   webapp:[ "https://expo.dev/artifacts/eas/gWgzu1ddnHDGLmriEn2igu.apk","https://expo.dev/artifacts/eas/sU3oHa8Kdmqg1GHbt8uqQF.tar.gz"],
+   webapp: "https://expo.dev/artifacts/eas/gWgzu1ddnHDGLmriEn2igu.apk",
   },
 
   
