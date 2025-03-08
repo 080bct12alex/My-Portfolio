@@ -2,6 +2,7 @@ export const Bio = {
   name: "Alex Shrestha",
   roles: [
     "Full Stack Web  Developer",
+       "App Developer",
     "ML enthusiast",
     "Programmer",
   ],
@@ -63,6 +64,20 @@ export const skills = [
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png",
       },
+       {
+        name: "Appwrite",
+        image:
+          "https://appwrite.io/assets/logomark/logo.png",
+    
+      },
+       {
+        name: "Convex",
+        image:
+          "https://avatars.githubusercontent.com/u/81530787?s=280&v=4",
+    
+      },
+      
+      
       
     ],
   },
@@ -92,6 +107,73 @@ export const skills = [
         name: "Figma",
         image:
           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS62LVhts8-ERiNmlrfHQShVXasUYH38KKSRw&s",
+      },
+    ],
+  },
+
+  {
+    title: "Android",
+    skills: [
+      {
+        name: "ReactNative",
+        image:
+          "https://engineering.fb.com/wp-content/uploads/2016/04/yearinreview.jpg",
+      },
+      {
+        name: "Expo",
+        image:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr5G_XWqJuICwBxkr6DHS4CM1FR00epymzWw&s",
+      },
+      
+      
+    ],
+  },
+
+  {
+    title: "Machine Learning",
+    skills: [
+      {
+        name: "Python",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+      },
+     
+      
+      {
+        name: "Jupyter",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png",
+      },
+      {
+        name: "Google Colab",
+        image:
+          "https://assets.stickpng.com/images/63c2e4c9c4baad4ce22bf9ef.png",
+      },
+      {
+        name: "scikit-learn",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png",
+      },
+
+       {
+        name: "Pandas",
+        image:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpCB6Du8H6Lrm5WIbDcdW59uqoSiL-eeTlw&s",
+      },
+        {
+        name: "Numpy",
+        image:
+          "https://w7.pngwing.com/pngs/811/893/png-transparent-numpy-hd-logo-thumbnail.png",
+      },
+        {
+        name: "Matplotlib",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png",
+      },
+       {
+        name: "Seaborn",
+        image:
+          "https://avatars.githubusercontent.com/u/22799945?s=280&v=4",
       },
     ],
   },
