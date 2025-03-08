@@ -190,13 +190,13 @@ export const projects = [
     description:
       "A Movie Finding App with Extensive Search",
     image:
-      "https://i.ibb.co/Y4P6mb6X/2d27b27e-e450-47d4-8dc9-6a3f9df8ac88-1.jpg",
+      "https://i.ibb.co/rRr3Rmwz/2d27b27e-e450-47d4-8dc9-6a3f9df8ac88.jpg",
     tags: [
        "React Native" ,"EXPO","Appwrite" ,"TypeScript" , "TailwindCSS "
     ],
     category: "android app",
     github: "https://github.com/080bct12alex/MovieMagnet",
-   androidapp: "https://expo.dev/artifacts/eas/gWgzu1ddnHDGLmriEn2igu.apk",
+   webapp: "https://expo.dev/artifacts/eas/gWgzu1ddnHDGLmriEn2igu.apk",
   },
 
   
