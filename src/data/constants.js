@@ -184,6 +184,21 @@ export const projects = [
     webapp: "https://cocode-editor.vercel.app",
   },
 
+   {
+    id: 4,
+    title: "MoviesMagnet",
+    description:
+      "A Movie Finding App with Extensive Search",
+    image:
+      "https://i.ibb.co/rRr3Rmwz/2d27b27e-e450-47d4-8dc9-6a3f9df8ac88.jpg",
+    tags: [
+       "React Native" ,"EXPO","Appwrite" ,"TypeScript" , "TailwindCSS "
+    ],
+    category: "android app",
+    github: "https://github.com/080bct12alex/MovieMagnet",
+    app: "https://expo.dev/artifacts/eas/gWgzu1ddnHDGLmriEn2igu.apk",
+  },
+
   
   
 ];
