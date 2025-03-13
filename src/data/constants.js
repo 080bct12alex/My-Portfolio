@@ -287,7 +287,7 @@ export const projects = [
     description:
       "A Movie Finding App with Extensive Search",
     image:
-      "https://i.ibb.co/rRr3Rmwz/2d27b27e-e450-47d4-8dc9-6a3f9df8ac88.jpg",
+      "https://i.ibb.co/XkkM4bN0/moviemagnet.jpg",
     tags: [
        "React Native" ,"EXPO","Appwrite" ,"TypeScript" , "TailwindCSS "
     ],
@@ -301,13 +301,28 @@ export const projects = [
     description:
       "An AI Generated Video Sharing App.",
     image:
-      "https://i.ibb.co/KjGjYmxX/e9cc3c40-be6e-422f-bc60-d7e95b9b2d0d.jpg",
+      "https://i.ibb.co/h1hdTWCQ/uploadAI.jpg",       
     tags: [
-       "React Native" ,"EXPO","Supabase" 
+       "React Native" ,"EXPO","AppWrite" 
     ],
     category: "android app",
     github: "https://github.com/080bct12alex/UploadAI",
    webapp: "https://expo.dev/artifacts/eas/xdGgUpoLD2BbNKr1XZzB89.apk",
+  },
+
+  {
+    id: 6,
+    title: "Mend",
+    description:
+      "A Social media APP to reconnect and grow.",
+    image:
+      "https://i.ibb.co/7tMff9hV/mend.jpg",       
+    tags: [
+       "React Native" ,"EXPO","Supabase" 
+    ],
+    category: "android app",
+    github: "https://github.com/080bct12alex/Mend",
+   webapp: "https://expo.dev/artifacts/eas/3x7AkmDqK2vWiHRAEZyQjL.apk",
   },
 
   
