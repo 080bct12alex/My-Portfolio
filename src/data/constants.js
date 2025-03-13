@@ -123,6 +123,21 @@ export const skills = [
         image:
           "https://assets.vercel.com/image/upload/front/vercel/twitter-card.png",
       },
+       {
+        name: "Stripe",
+        image:
+          "https://www.magicbell.com/static/uploads/stripe-logo.svg",
+      },
+        {
+        name: "Lemon squeezy",
+        image:
+          "https://logowik.com/content/uploads/images/lemon-squeezy-icon3930.logowik.com.webp",
+      },
+       {
+        name: "Socket.IO",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg",
+      },
     ],
   },
 
