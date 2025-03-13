@@ -303,7 +303,7 @@ export const projects = [
     image:
       "https://i.ibb.co/KjGjYmxX/e9cc3c40-be6e-422f-bc60-d7e95b9b2d0d.jpg",
     tags: [
-       "React Native" ,"EXPO","Supabase" "
+       "React Native" ,"EXPO","Supabase" 
     ],
     category: "android app",
     github: "https://github.com/080bct12alex/UploadAI",
