@@ -287,7 +287,7 @@ export const projects = [
     description:
       "A Movie Finding App with Extensive Search",
     image:
-      "hhttps://i.ibb.co/rRr3Rmwz/2d27b27e-e450-47d4-8dc9-6a3f9df8ac88.jpg",
+      "https://i.ibb.co/rRr3Rmwz/2d27b27e-e450-47d4-8dc9-6a3f9df8ac88.jpg",
     tags: [
        "React Native" ,"EXPO","Appwrite" ,"TypeScript" , "TailwindCSS "
     ],
