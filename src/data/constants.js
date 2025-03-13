@@ -77,7 +77,12 @@ export const skills = [
     
       },
       
-      
+     {
+        name: "Supabase",
+        image:
+          "https://yt3.googleusercontent.com/KVjptxDSWT7rjVfGax2TgTNVAYgplgo1z_fwaV3MFjPpcmNVZC0TIgQV030BPJ0ybCP3_Fz-2w=s900-c-k-c0x00ffffff-no-rj",
+    
+      }, 
       
     ],
   },
@@ -107,6 +112,16 @@ export const skills = [
         name: "Figma",
         image:
           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS62LVhts8-ERiNmlrfHQShVXasUYH38KKSRw&s",
+      },
+      {
+        name: "Clerk",
+        image:
+          "https://pipedream.com/s.v0/app_dBhw8k/logo/orig",
+      },
+       {
+        name: "Vercel",
+        image:
+          "https://assets.vercel.com/image/upload/front/vercel/twitter-card.png",
       },
     ],
   },
@@ -279,6 +294,20 @@ export const projects = [
     category: "android app",
     github: "https://github.com/080bct12alex/MovieMagnet",
    webapp: "https://expo.dev/artifacts/eas/gWgzu1ddnHDGLmriEn2igu.apk",
+  },
+{
+    id: 5,
+    title: "UploadAI",
+    description:
+      "An AI Generated Video Sharing App.",
+    image:
+      "https://i.ibb.co/KjGjYmxX/e9cc3c40-be6e-422f-bc60-d7e95b9b2d0d.jpg",
+    tags: [
+       "React Native" ,"EXPO","Supabase" "
+    ],
+    category: "android app",
+    github: "https://github.com/080bct12alex/UploadAI",
+   webapp: "https://expo.dev/artifacts/eas/xdGgUpoLD2BbNKr1XZzB89.apk",
   },
 
   
