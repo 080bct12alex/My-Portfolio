@@ -123,21 +123,7 @@ export const skills = [
         image:
           "https://assets.vercel.com/image/upload/front/vercel/twitter-card.png",
       },
-       {
-        name: "Stripe",
-        image:
-          "https://images.ctfassets.net/kftzwdyauwt9/6c20363e-30c0-486d-2e9bfa611583/b15f2e43a5a525763c966ab4562a31b2/stripe.jpg?w=3840&q=90&fm=webp",
-      },
-        {
-        name: "Lemon squeezy",
-        image:
-          "https://media.licdn.com/dms/image/v2/D4E0BAQE26mdy_6LWhw/company-logo_200_200/company-logo_200_200/0/1705060098572/lemon_squeezy_llc_logo?e=2147483647&v=beta&t=vdKhyhzcV1eRwiadCDlI0RJijAnLTXjx1cFPFk7sgGI",
-      },
-       {
-        name: "Socket.IO",
-        image:
-          "https://cdn.techimply.com/uploads/software/28663/logo/1827644c97b7a50d70bf0539c153087e.png",
-      },
+     
     ],
   },
 
