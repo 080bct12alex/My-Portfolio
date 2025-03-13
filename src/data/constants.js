@@ -287,7 +287,7 @@ export const projects = [
     description:
       "A Movie Finding App with Extensive Search",
     image:
-      "https://i.ibb.co/XkkM4bN0/moviemagnet.jpg",
+      "hhttps://i.ibb.co/rRr3Rmwz/2d27b27e-e450-47d4-8dc9-6a3f9df8ac88.jpg",
     tags: [
        "React Native" ,"EXPO","Appwrite" ,"TypeScript" , "TailwindCSS "
     ],
@@ -301,7 +301,7 @@ export const projects = [
     description:
       "An AI Generated Video Sharing App.",
     image:
-      "https://i.ibb.co/h1hdTWCQ/uploadAI.jpg",       
+      "https://i.ibb.co/KjGjYmxX/e9cc3c40-be6e-422f-bc60-d7e95b9b2d0d.jpg",       
     tags: [
        "React Native" ,"EXPO","AppWrite" 
     ],
@@ -316,7 +316,7 @@ export const projects = [
     description:
       "A Social media APP to reconnect and grow.",
     image:
-      "https://i.ibb.co/7tMff9hV/mend.jpg",       
+      "https://i.ibb.co/GQtG31JK/4810f570-5b4c-4099-9e7b-5280500bc279.jpg",       
     tags: [
        "React Native" ,"EXPO","Supabase" 
     ],
