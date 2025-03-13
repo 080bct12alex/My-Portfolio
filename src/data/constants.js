@@ -123,7 +123,6 @@ export const skills = [
         image:
           "https://assets.vercel.com/image/upload/front/vercel/twitter-card.png",
       },
-     
     ],
   },
 
@@ -335,4 +334,3 @@ export const TimeLineData = [
   { year: 2024, text: "Started my journey" },
   
 ];
-
