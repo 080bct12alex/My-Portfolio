@@ -347,7 +347,20 @@ export const projects = [
    webapp: "https://expo.dev/artifacts/eas/3x7AkmDqK2vWiHRAEZyQjL.apk",
   },
 
-  
+  {
+    id: 7,
+    title: "NepalEstate,
+    description:
+      "A real estate price prediction web app using machine learning, Next.js and Flask",
+    image:
+      "https://i.ibb.co/zTvw3T4W/Capture.png",       
+    tags: [
+       "Machine Learning" ,"Data Science","MlP Regressor" ,"Sckit-learn" 
+    ],
+    category: "machine learning",
+    github: "https://github.com/080bct12alex/Nepalestate",
+   webapp: "https://nepalestate.vercel.app",
+  },
   
 ];
 
