@@ -349,7 +349,8 @@ export const projects = [
 
   {
     id: 7,
-    title: "NepalEstate,
+   title: "NepalEstate",
+
     description:
       "A real estate price prediction web app using machine learning, Next.js and Flask",
     image:
