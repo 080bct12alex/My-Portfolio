@@ -362,6 +362,22 @@ export const projects = [
     github: "https://github.com/080bct12alex/Nepalestate",
    webapp: "https://nepalestate.vercel.app",
   },
+
+  {
+    id: 8,
+   title: "CineMatch",
+
+    description:
+      "A personalized movie recommendation system  that helps users discover new movies based on their preferences.",
+    image:
+      "https://i.ibb.co/Y42Tf3Vp/Capture.png",       
+    tags: [
+       "Machine Learning" ,"Data Science","borative-filtering" ,"Sckit-learn" 
+    ],
+    category: "machine learning",
+    github: "https://github.com/080bct12alex/cinematch",
+   webapp: "https://cinematch3.onrender.com",
+  },
   
 ];
 
