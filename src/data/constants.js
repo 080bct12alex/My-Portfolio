@@ -71,6 +71,13 @@ export const skills = [
     
       },
        {
+        name: "Flask",
+        image:
+          "https://ih1.redbubble.net/image.5527411452.4567/st,small,507x507-pad,600x600,f8f8f8.jpg",
+    
+      },
+      
+       {
         name: "Convex",
         image:
           "https://avatars.githubusercontent.com/u/81530787?s=280&v=4",
@@ -123,6 +130,20 @@ export const skills = [
         image:
           "https://assets.vercel.com/image/upload/front/vercel/twitter-card.png",
       },
+
+       {
+        name: "Render",
+        image:
+          "https://cdn.sanity.io/images/34ent8ly/production/ec37a3660704e1fa2b4246c9a01ab34e145194ad-824x824.png",
+      },
+       {
+        name: "Netlify",
+        image:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcWg78-RbY6Nb13ePS0TcrurjK5VQbUhJ9veWIohcHgg&s&ec=72940542",
+      },
+
+
+      
        {
         name: "Stripe",
         image:
@@ -176,16 +197,7 @@ export const skills = [
       },
      
       
-      {
-        name: "Jupyter",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png",
-      },
-      {
-        name: "Google Colab",
-        image:
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr3rVUaAQm-cX9raE8hDgrM58Xy6DH25tkNw&s",
-      },
+   
       {
         name: "scikit-learn",
         image:
