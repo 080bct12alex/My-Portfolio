@@ -209,11 +209,22 @@ export const skills = [
         image:
           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpCB6Du8H6Lrm5WIbDcdW59uqoSiL-eeTlw&s",
       },
+       {
+        name: "Google Colab",
+        image:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr3rVUaAQm-cX9raE8hDgrM58Xy6DH25tkNw&s",
+      },
         {
         name: "Numpy",
         image:
           "https://w7.pngwing.com/pngs/811/893/png-transparent-numpy-hd-logo-thumbnail.png",
       },
+        {
+        name: "Jupyter",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png",
+      },
+     
         {
         name: "Matplotlib",
         image:
