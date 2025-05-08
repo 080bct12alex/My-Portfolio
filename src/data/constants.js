@@ -395,11 +395,27 @@ export const projects = [
     image:
       "https://i.ibb.co/Y42Tf3Vp/Capture.png",       
     tags: [
-       "Machine Learning" ,"Data Science","borative-filtering" ,"Sckit-learn" 
+       "Machine Learning" ,"Data Science","COLLABORATIVE-filtering" ,"Sckit-learn" 
     ],
     category: "machine learning",
     github: "https://github.com/080bct12alex/cinematch",
    webapp: "https://cinematch3.onrender.com",
+  },
+
+   {
+    id: 9,
+   title: "FluentX",
+
+    description:
+      "A Language Exchange Platform.",
+    image:
+      "https://i.ibb.co/LX5J4WNN/Screenshot-2025-05-08-203411.png",       
+    tags: [
+       "MERN" ,"TailwindCSS " 
+    ],
+    category: "web app",
+    github: "https://github.com/080bct12alex/FluentX",
+   webapp: "https://fluentx.onrender.com",
   },
   
 ];
