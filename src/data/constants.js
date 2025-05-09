@@ -417,6 +417,21 @@ export const projects = [
     github: "https://github.com/080bct12alex/FluentX",
    webapp: "https://fluentx.onrender.com",
   },
+  {
+    id: 10,
+   title: "SplitIQ",
+
+    description:
+      "An webapp for tracking shared expenses.",
+    image:
+      "https://i.ibb.co/214s3Ng1/Screenshot-2025-05-09-185044.png",       
+    tags: [
+       "Next JS" ,"TailwindCSS " ,"Gemini API"
+    ],
+    category: "web app",
+    github: "https://github.com/080bct12alex/SplitIQ",
+   webapp: "https://splitiq-beige.vercel.app",
+  },
   
 ];
 
