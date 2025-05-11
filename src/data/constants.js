@@ -432,7 +432,22 @@ export const projects = [
     github: "https://github.com/080bct12alex/SplitIQ",
    webapp: "https://splitiq-beige.vercel.app",
   },
-  
+
+   {
+    id: 11,
+   title: "AlexAI",
+
+    description:
+      "An AI-powered chatbot application.",
+    image:
+      "https://i.ibb.co/hF24KVJT/Screenshot-2025-05-11-163948.png",       
+    tags: [
+       "MERN" ,"TailwindCSS " ,"Gemini API" 
+    ],
+    category: "web app",
+    github: "https://github.com/080bct12alex/AlexAI",
+   webapp: "https://alexai-ayn3.onrender.com",
+  },
 ];
 
 
