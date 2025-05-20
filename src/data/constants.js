@@ -477,7 +477,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/080bct12alex/EasyRyde",
-   webapp: "https://easyryde.onrender.com",
+   webapp: "https://www.upload-apk.com/en/rJbaOdA3AEMbVSw",
   },
 ];
 
