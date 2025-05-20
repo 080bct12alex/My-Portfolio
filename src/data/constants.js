@@ -269,7 +269,7 @@ export const projects = [
 
   {
     id: 0,
-    title: "Swiftly- Click. Shop. Smile 🛒",
+    title: "Swiftly",
     description:
       "A web application designed for E-Commerce ",
     image:
@@ -283,7 +283,7 @@ export const projects = [
   },
   {
     id: 1,
-    title: "Bondr- Swipe. Chat. Bond",
+    title: "Bondr",
     description:
       "A web application designed for real time chat",
     image:
@@ -298,7 +298,7 @@ export const projects = [
 
    {
     id: 2,
-    title: "Mend - Heal together, grow together.",
+    title: "Mend ",
     description:
       "A modern social media application powered by Next.js",
     image:
@@ -313,7 +313,7 @@ export const projects = [
 
    {
     id: 3,
-    title: "CoCode-CodeLess,CreateMore.",
+    title: "CoCode",
     description:
       "A online code editing playground  powered by Next.js",
     image:
@@ -462,6 +462,22 @@ export const projects = [
     category: "web app",
     github: "https://github.com/080bct12alex/Alxeatgo",
    webapp: "https://alxeatgo.onrender.com",
+  },
+
+  {
+    id: 13,
+   title: "EasyRyde",
+
+    description:
+      "An app to find your ideal ride effortlessly.",
+    image:
+      "https://i.ibb.co/60n3d9cP/af39b36e-0914-4505-8878-f38b3d1bad3a.jpg",       
+    tags: [
+       "Reactnative" ,"EXPO "  ,"Google map"
+    ],
+    category: "web app",
+    github: "https://github.com/080bct12alex/EasyRyde",
+   webapp: "https://easyryde.onrender.com",
   },
 ];
 
