@@ -448,6 +448,21 @@ export const projects = [
     github: "https://github.com/080bct12alex/AlexAI",
    webapp: "https://alexai-ayn3.onrender.com",
   },
+  {
+    id: 12,
+   title: "Alxeatgo",
+
+    description:
+      "A food ordering webapp.",
+    image:
+      "https://i.ibb.co/gLRpyrWL/Capture.png",       
+    tags: [
+       "MERN" ,"TailwindCSS "  
+    ],
+    category: "web app",
+    github: "https://github.com/080bct12alex/Alxeatgo",
+   webapp: "https://alxeatgo.onrender.com",
+  },
 ];
 
 
