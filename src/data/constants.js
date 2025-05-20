@@ -338,7 +338,7 @@ export const projects = [
     ],
     category: "android app",
     github: "https://github.com/080bct12alex/MovieMagnet",
-   webapp: "https://expo.dev/artifacts/eas/gWgzu1ddnHDGLmriEn2igu.apk",
+   webapp: "https://www.upload-apk.com/en/edkkQNTNyxi2H1s",
   },
 {
     id: 5,
@@ -352,7 +352,7 @@ export const projects = [
     ],
     category: "android app",
     github: "https://github.com/080bct12alex/UploadAI",
-   webapp: "https://expo.dev/artifacts/eas/xdGgUpoLD2BbNKr1XZzB89.apk",
+   webapp: "https://www.upload-apk.com/en/CvkiF7FWApBufqa",
   },
 
   {
@@ -367,7 +367,7 @@ export const projects = [
     ],
     category: "android app",
     github: "https://github.com/080bct12alex/Mend",
-   webapp: "https://expo.dev/artifacts/eas/3x7AkmDqK2vWiHRAEZyQjL.apk",
+   webapp: "https://www.upload-apk.com/en/d9Pcrmv5txqXwRg",
   },
 
   {
