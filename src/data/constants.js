@@ -64,32 +64,7 @@ export const skills = [
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png",
       },
-       {
-        name: "Appwrite",
-        image:
-          "https://appwrite.io/assets/logomark/logo.png",
-    
-      },
-       {
-        name: "Flask",
-        image:
-          "https://ih1.redbubble.net/image.5527411452.4567/st,small,507x507-pad,600x600,f8f8f8.jpg",
-    
-      },
       
-       {
-        name: "Convex",
-        image:
-          "https://avatars.githubusercontent.com/u/81530787?s=280&v=4",
-    
-      },
-      
-     {
-        name: "Supabase",
-        image:
-          "https://yt3.googleusercontent.com/KVjptxDSWT7rjVfGax2TgTNVAYgplgo1z_fwaV3MFjPpcmNVZC0TIgQV030BPJ0ybCP3_Fz-2w=s900-c-k-c0x00ffffff-no-rj",
-    
-      }, 
       
     ],
   },
@@ -120,11 +95,7 @@ export const skills = [
         image:
           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS62LVhts8-ERiNmlrfHQShVXasUYH38KKSRw&s",
       },
-      {
-        name: "Clerk",
-        image:
-          "https://pipedream.com/s.v0/app_dBhw8k/logo/orig",
-      },
+    
        {
         name: "Vercel",
         image:
@@ -136,25 +107,11 @@ export const skills = [
         image:
           "https://cdn.sanity.io/images/34ent8ly/production/ec37a3660704e1fa2b4246c9a01ab34e145194ad-824x824.png",
       },
-       {
-        name: "Netlify",
-        image:
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcWg78-RbY6Nb13ePS0TcrurjK5VQbUhJ9veWIohcHgg&s&ec=72940542",
-      },
-
+      
 
       
-       {
-        name: "Stripe",
-        image:
-          "https://stripe.com/img/about/logos/logos/blue@2x.png",
-      },
-
-       {
-        name: "Lemon Squeezy",
-        image:
-          "https://logowik.com/content/uploads/images/lemon-squeezy-icon3930.logowik.com.webp",
-      },
+      
+       
 
         {
         name: "Socket.IO",
@@ -209,21 +166,13 @@ export const skills = [
         image:
           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpCB6Du8H6Lrm5WIbDcdW59uqoSiL-eeTlw&s",
       },
-       {
-        name: "Google Colab",
-        image:
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr3rVUaAQm-cX9raE8hDgrM58Xy6DH25tkNw&s",
-      },
+      
         {
         name: "Numpy",
         image:
           "https://w7.pngwing.com/pngs/811/893/png-transparent-numpy-hd-logo-thumbnail.png",
       },
-        {
-        name: "Jupyter",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png",
-      },
+       
      
         {
         name: "Matplotlib",
@@ -311,52 +260,12 @@ export const projects = [
     webapp: "https://mend-one.vercel.app",
   },
 
-   {
-    id: 3,
-    title: "CoCode",
-    description:
-      "A online code editing playground  powered by Next.js",
-    image:
-      "https://i.ibb.co/4Qp6pHk/cocode.jpg",
-    tags: [
-       "MERN" ,"Next.js","Convex" ,"TypeScript" 
-    ],
-    category: "web app",
-    github: "https://github.com/080bct12alex/CoCode-Code-Less-Create-Morer",
-    webapp: "https://cocode-editor.vercel.app",
-  },
 
-   {
-    id: 4,
-    title: "MoviesMagnet",
-    description:
-      "A Movie Finding App with Extensive Search",
-    image:
-      "https://i.ibb.co/rRr3Rmwz/2d27b27e-e450-47d4-8dc9-6a3f9df8ac88.jpg",
-    tags: [
-       "React Native" ,"EXPO","Appwrite" ,"TypeScript" , "TailwindCSS "
-    ],
-    category: "android app",
-    github: "https://github.com/080bct12alex/MovieMagnet",
-   webapp: "https://www.upload-apk.com/en/edkkQNTNyxi2H1s",
-  },
-{
-    id: 5,
-    title: "UploadAI",
-    description:
-      "An AI Generated Video Sharing App.",
-    image:
-      "https://i.ibb.co/KjGjYmxX/e9cc3c40-be6e-422f-bc60-d7e95b9b2d0d.jpg",       
-    tags: [
-       "React Native" ,"EXPO","AppWrite" 
-    ],
-    category: "android app",
-    github: "https://github.com/080bct12alex/UploadAI",
-   webapp: "https://www.upload-apk.com/en/CvkiF7FWApBufqa",
-  },
+
+   
 
   {
-    id: 6,
+    id: 3,
     title: "Mend",
     description:
       "A Social media APP to reconnect and grow.",
@@ -371,7 +280,7 @@ export const projects = [
   },
 
   {
-    id: 7,
+    id: 4,
    title: "NepalEstate",
 
     description:
@@ -387,7 +296,7 @@ export const projects = [
   },
 
   {
-    id: 8,
+    id: 5,
    title: "CineMatch",
 
     description:
@@ -402,23 +311,9 @@ export const projects = [
    webapp: "https://cinematch3.onrender.com",
   },
 
-   {
-    id: 9,
-   title: "FluentX",
 
-    description:
-      "A Language Exchange Platform.",
-    image:
-      "https://i.ibb.co/LX5J4WNN/Screenshot-2025-05-08-203411.png",       
-    tags: [
-       "MERN" ,"TailwindCSS " 
-    ],
-    category: "web app",
-    github: "https://github.com/080bct12alex/FluentX",
-   webapp: "https://fluentx.onrender.com",
-  },
   {
-    id: 10,
+    id: 6,
    title: "SplitIQ",
 
     description:
@@ -434,7 +329,7 @@ export const projects = [
   },
 
    {
-    id: 11,
+    id: 7,
    title: "AlexAI",
 
     description:
@@ -448,24 +343,10 @@ export const projects = [
     github: "https://github.com/080bct12alex/AlexAI",
    webapp: "https://alexai-ayn3.onrender.com",
   },
-  {
-    id: 12,
-   title: "Alxeatgo",
 
-    description:
-      "A food ordering webapp.",
-    image:
-      "https://i.ibb.co/gLRpyrWL/Capture.png",       
-    tags: [
-       "MERN" ,"TailwindCSS "  
-    ],
-    category: "web app",
-    github: "https://github.com/080bct12alex/Alxeatgo",
-   webapp: "https://alxeatgo.onrender.com",
-  },
 
   {
-    id: 13,
+    id: 8,
    title: "EasyRyde",
 
     description:
