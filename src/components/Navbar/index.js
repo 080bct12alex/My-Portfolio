@@ -15,7 +15,7 @@ const Navbar = () => {
        <NavLogo to="/">
   <ColorText>&lt;</ColorText>
   <span style={{ color: "#FFFFFF" }}>Alex</span>
-  <span style={{ color: "#FFFFFF" }}>/</span>
+  <ColorText>/</ColorText>
   <span style={{ color: "#FFFFFF" }}>Shrestha</span>
   <ColorText>&gt;</ColorText>
 </NavLogo>
