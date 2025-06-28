@@ -29,7 +29,7 @@ export const NavbarContainer = styled.div`
 
 
 export const ColorText = styled.div`
-  color: ${({ theme }) => theme.primary};
+  color: ${({ theme }) => theme.colors.text1};
   font-size: 32px;
 `;
 
