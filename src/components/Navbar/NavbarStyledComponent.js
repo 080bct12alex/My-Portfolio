@@ -28,13 +28,13 @@ export const NavbarContainer = styled.div`
 `;
 
 
-const ColorText = styled.div`
+export const ColorText = styled.div`
   color: ${({ theme }) => theme.primary};
   font-size: 32px;
 `;
 
 
-const NavLogo = styled(LinkR)`
+export const NavLogo = styled(LinkR)`
   display: flex;
   align-items: center;
   width: 80%;
