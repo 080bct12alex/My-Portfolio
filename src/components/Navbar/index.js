@@ -12,12 +12,10 @@ const Navbar = () => {
   return (
     <Nav>
       <NavbarContainer>
-        <NavLogo to='/'>
-        <button  style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20px', cursor: 'pointer', background: "none", border: "none" }}>
-  <DiCssdeck size="3rem" /> <Span>ALEX</Span>
-</button>
-
-
+        <NavLogo to="/">
+          <ColorText>&lt;</ColorText>Alex
+          <div style={{ color: theme.primary }}>/</div>Shrestha
+          <ColorText>&gt;</ColorText>
         </NavLogo>
         <MobileIcon>
           <FaBars onClick={() => {
