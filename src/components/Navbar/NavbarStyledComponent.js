@@ -27,16 +27,22 @@ export const NavbarContainer = styled.div`
   max-width: 1200px;
 `;
 
-export const NavLogo = styled(LinkR)`
-    width: 80%;    
-    padding: 0 6px;
-    display: flex;
-    justify-content: start;
-    align-items: center;
-    text-decoration: none;
-    @media (max-width: 640px) {
-      padding: 0 0px;
-  }
+
+const ColorText = styled.div`
+  color: ${({ theme }) => theme.primary};
+  font-size: 32px;
+`;
+
+
+const NavLogo = styled(LinkR)`
+  display: flex;
+  align-items: center;
+  width: 80%;
+  padding: 0 6px;
+  font-weight: 500;
+  font-size: 18px;
+  text-decoration: none;
+  color: inherit;
 `;
 export const Span = styled.div`
     padding: 0 4px;
