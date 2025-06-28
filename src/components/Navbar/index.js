@@ -13,10 +13,12 @@ const Navbar = () => {
     <Nav>
       <NavbarContainer>
         <NavLogo to="/">
-          <ColorText>&lt;</ColorText>Alex
-          <div style={{ color: theme.primary }}>/</div>Shrestha
-          <ColorText>&gt;</ColorText>
-        </NavLogo>
+  <ColorText>&lt;</ColorText>
+  <div style={{ color: theme.colors.text1 }}>Alex</div>
+  <div style={{ color: theme.colors.text1 }}>/</div>
+  <div style={{ color: theme.colors.text1 }}>Shrestha</div>
+  <ColorText>&gt;</ColorText>
+</NavLogo>
         <MobileIcon>
           <FaBars onClick={() => {
             setIsOpen(!isOpen)
