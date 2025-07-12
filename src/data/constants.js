@@ -144,6 +144,12 @@ export const skills = [
         image:
           "https://avatars.githubusercontent.com/u/22799945?s=280&v=4",
       },
+
+      {
+        name: "LangChain",
+        image:
+          "https://api.nuget.org/v3-flatcontainer/langchain.core/0.17.0/icon",
+      },
     ],
   },
 ];
