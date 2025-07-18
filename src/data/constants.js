@@ -54,6 +54,13 @@ export const skills = [
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png",
       },
+
+          {
+        name: "FastAPI",
+        image:
+          "https://res.cloudinary.com/harendra21/image/upload/v1742473055/withcodeexample.com/getting-started-with-python-fastapi-a-comprehensive-guide_tnigh2.jpg",
+      },
+      
     ],
   },
   {
@@ -64,11 +71,14 @@ export const skills = [
         image:
           "https://avatars.githubusercontent.com/u/18133?s=280&v=4",
       },
+      
       {
-        name: "Git Hub",
+        name: "Docker",
         image:
-          "https://avatars.slack-edge.com/2020-11-25/1527503386626_319578f21381f9641cd8_512.png",
+          "https://www.stackhero.io/assets/src/images/servicesLogos/openGraphVersions/docker.png?d87f4381",
       },
+      
+    
       {
         name: "Postman",
         image:
