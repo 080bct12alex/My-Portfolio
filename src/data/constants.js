@@ -60,6 +60,13 @@ export const skills = [
         image:
           "https://res.cloudinary.com/harendra21/image/upload/v1742473055/withcodeexample.com/getting-started-with-python-fastapi-a-comprehensive-guide_tnigh2.jpg",
       },
+
+      
+          {
+        name: "Convex",
+        image:
+          "https://img.stackshare.io/service/41143/default_f1d33b63d360437ba28c8ac981dd68d7d2478b22.png",
+      },
       
     ],
   },
