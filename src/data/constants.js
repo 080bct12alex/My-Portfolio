@@ -4,7 +4,7 @@ export const Bio = {
     "Full Stack Web Developer",
     "App Developer",
     "ML enthusiast",
-    "Programmer",
+ 
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning, I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
@@ -193,48 +193,20 @@ export const education = [
 ];
 
 export const projects = [
-  {
+    {
     id: 0,
-    title: "Swiftly",
-    description: "A web application designed for E-Commerce",
-    image: "https://i.ibb.co/Z1X8trVr/swiftly.jpg",
-    tags: ["MERN", "MongoDB", "Redis", "Stripe", "Robust", "JWT"],
-    category: ["web app"],
-    github: "https://github.com/080bct12alex/swiftly-click.shop.smile",
-    webapp: "https://swiftly-shop.onrender.com",
+    title: "Medix",
+    description: "A Patient Management System using Next JS and FastAPI   .",
+    image: "https://i.ibb.co/pvCrLj11/Screenshot-2025-07-21-170230.png",
+    tags: ["Next JS", "FastAPI", "MongoDB", "JWT","Docker", "CI/CD", "Unit Testing"],
+    category: [ "web app"],
+    github: "https://github.com/080bct12alex/MedixUI",
+    webapp: "https://medix-neon.vercel.app",
   },
+
+  
   {
     id: 1,
-    title: "Bondr",
-    description: "A web application designed for real time chat",
-    image: "https://i.ibb.co/ZqTwcjk/bondr.jpg",
-    tags: ["MERN", "Socket.io", "Zustand", "React context", "JWT", "TailwindCSS"],
-    category: ["web app"],
-    github: "https://github.com/080bct12alex/Bondr-Swipe.Chat.Bond",
-    webapp: "https://bondr.onrender.com",
-  },
-  {
-    id: 2,
-    title: "Mend",
-    description: "A modern social media application powered by Next.js",
-    image: "https://i.ibb.co/FL0S9YgJ/mend.jpg",
-    tags: ["MERN", "Next.js", "PostgreSQL", "TypeScript", "TailwindCSS"],
-    category: ["web app"],
-    github: "https://github.com/080bct12alex/mend-Heal-together-grow-together",
-    webapp: "https://mend-one.vercel.app",
-  },
-  {
-    id: 3,
-    title: "Mend",
-    description: "A Social media APP to reconnect and grow.",
-    image: "https://i.ibb.co/GQtG31JK/4810f570-5b4c-4099-9e7b-5280500bc279.jpg",
-    tags: ["React Native", "EXPO", "Supabase"],
-    category: ["android app"],
-    github: "https://github.com/080bct12alex/Mend",
-    webapp: "https://www.upload-apk.com/en/d9Pcrmv5txqXwRg",
-  },
-  {
-    id: 4,
     title: "NepalEstate",
     description: "A real estate price prediction web app using machine learning, Next.js and Flask",
     image: "https://i.ibb.co/zTvw3T4W/Capture.png",
@@ -243,29 +215,10 @@ export const projects = [
     github: "https://github.com/080bct12alex/Nepalestate",
     webapp: "https://nepalestate.vercel.app",
   },
+  
+
   {
-    id: 5,
-    title: "CineMatch",
-    description:
-      "A personalized movie recommendation system that helps users discover new movies based on their preferences.",
-    image: "https://i.ibb.co/Y42Tf3Vp/Capture.png",
-    tags: ["Machine Learning", "Data Science", "Collaborative-filtering", "Scikit-learn"],
-    category: ["machine learning"],
-    github: "https://github.com/080bct12alex/cinematch",
-    webapp: "https://cinematch3.onrender.com",
-  },
-  {
-    id: 6,
-    title: "SplitIQ",
-    description: "A webapp for tracking shared expenses.",
-    image: "https://i.ibb.co/214s3Ng1/Screenshot-2025-05-09-185044.png",
-    tags: ["Next JS", "TailwindCSS", "Gemini API"],
-    category: ["machine learning", "web app"],
-    github: "https://github.com/080bct12alex/SplitIQ",
-    webapp: "https://splitiq-beige.vercel.app",
-  },
-  {
-    id: 7,
+    id: 2,
     title: "AlexAI",
     description: "An AI-powered chatbot application.",
     image: "https://i.ibb.co/hF24KVJT/Screenshot-2025-05-11-163948.png",
@@ -274,8 +227,94 @@ export const projects = [
     github: "https://github.com/080bct12alex/AlexAI",
     webapp: "https://alexai-ayn3.onrender.com",
   },
+  
+    {
+    id: 3,
+    title: "Travel Companion AI",
+    description: "An AI-powered smart travel planner with real-time flight data.",
+    image: "https://i.ibb.co/PZHxcTx9/Capture.png",
+    tags: ["React", "Gemini API", "SerpAPI"],
+    category: ["machine learning", "web app"],
+    github: "https://github.com/080bct12alex/Travel_Companion_AI",
+    webapp: "https://travelcompanionai.onrender.com",
+  },
+
+    {
+    id: 4,
+    title: "CineMatch",
+    description:
+      "A personalized movie recommendation system that helps users discover new movies based on their preferences.",
+    image: "https://i.ibb.co/Y42Tf3Vp/Capture.png",
+    tags: ["Machine Learning", "Data Science", "Collaborative-filtering", "Scikit-learn"],
+    category: ["machine learning"],
+    github: "https://github.com/080bct12alex/cinematch",
+    webapp: "https://cinematch3.streamlit.app",
+  },
+
+    {
+    id: 5,
+    title: "SplitIQ",
+    description: "A webapp for tracking shared expenses.",
+    image: "https://i.ibb.co/214s3Ng1/Screenshot-2025-05-09-185044.png",
+    tags: ["Next JS", "Gemini API"],
+    category: ["machine learning", "web app"],
+    github: "https://github.com/080bct12alex/SplitIQ",
+    webapp: "https://splitiq-beige.vercel.app",
+  },
+  
+
+   {
+    id: 6,
+    title: "Bondr",
+    description: "A web application designed for real time chat",
+    image: "https://i.ibb.co/ZqTwcjk/bondr.jpg",
+    tags: ["MERN", "Socket.io",  "JWT"],
+    category: ["web app"],
+    github: "https://github.com/080bct12alex/Bondr-Swipe.Chat.Bond",
+    webapp: "https://bondr.onrender.com",
+  },
+  
+  
+  {
+    id: 7,
+    title: "Swiftly",
+    description: "A web application designed for E-Commerce",
+    image: "https://i.ibb.co/Z1X8trVr/swiftly.jpg",
+    tags: ["MERN", "Redis", "Stripe", "JWT"],
+    category: ["web app"],
+    github: "https://github.com/080bct12alex/swiftly-click.shop.smile",
+    webapp: "https://swiftly-shop.onrender.com",
+  },
+ 
   {
     id: 8,
+    title: "Mend",
+    description: "A modern social media Web App powered by Next.js",
+    image: "https://i.ibb.co/FL0S9YgJ/mend.jpg",
+    tags: [ "Next.js", "PostgreSQL", "TailwindCSS"],
+    category: ["web app"],
+    github: "https://github.com/080bct12alex/mend-Heal-together-grow-together",
+    webapp: "https://mend-one.vercel.app",
+  },
+
+ 
+  
+  
+  {
+    id: 9,
+    title: "Mend",
+    description: "A Social media Mobile Application to reconnect and grow.",
+    image: "https://i.ibb.co/GQtG31JK/4810f570-5b4c-4099-9e7b-5280500bc279.jpg",
+    tags: ["React Native", "EXPO", "Supabase"],
+    category: ["android app"],
+    github: "https://github.com/080bct12alex/Mend",
+    webapp: "https://www.upload-apk.com/en/d9Pcrmv5txqXwRg",
+  },
+
+
+
+  {
+    id: 10,
     title: "EasyRyde",
     description: "An app to find your ideal ride effortlessly.",
     image: "https://i.ibb.co/60n3d9cP/af39b36e-0914-4505-8878-f38b3d1bad3a.jpg",
@@ -284,16 +323,12 @@ export const projects = [
     github: "https://github.com/080bct12alex/EasyRyde",
     webapp: "https://www.upload-apk.com/en/XFXTAPUgvXDEE0d",
   },
-  {
-    id: 9,
-    title: "Travel Companion AI",
-    description: "A smart travel planner powered by Gemini AI and real-time flight data.",
-    image: "https://i.ibb.co/PZHxcTx9/Capture.png",
-    tags: ["React", "Gemini API", "SerpAPI"],
-    category: ["machine learning", "web app"],
-    github: "https://github.com/080bct12alex/Travel_Companion_AI",
-    webapp: "https://travelcompanionai.onrender.com",
-  },
+
+
+
+
+  
+
 ];
 
 export const TimeLineData = [{ year: 2024, text: "Started my journey" }];
