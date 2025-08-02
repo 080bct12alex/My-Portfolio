@@ -215,10 +215,22 @@ export const projects = [
     github: "https://github.com/080bct12alex/Nepalestate",
     webapp: "https://nepalestate.vercel.app",
   },
+
+    {
+    id: 2,
+    title: "AVL Tree Visualizer",
+    description: "An interactive tool for visualizing AVL Tree.",
+    image: "https://i.ibb.co/QjjgP9Xc/ds-avl.png",
+    tags: ["Data Structure", "Next JS"],
+    category: [ "web app"],
+    github: "https://github.com/080bct12alex/AVL-Tree-Visualizer",
+    webapp: "https://avl-tree-visualizer-alex.vercel.app",
+  },
+  
   
 
   {
-    id: 2,
+    id: 3,
     title: "AlexAI",
     description: "An AI-powered chatbot application.",
     image: "https://i.ibb.co/hF24KVJT/Screenshot-2025-05-11-163948.png",
@@ -229,7 +241,7 @@ export const projects = [
   },
   
     {
-    id: 3,
+    id: 4,
     title: "Travel Companion AI",
     description: "An AI-powered smart travel planner with real-time flight data.",
     image: "https://i.ibb.co/PZHxcTx9/Capture.png",
@@ -240,7 +252,7 @@ export const projects = [
   },
 
     {
-    id: 4,
+    id: 5,
     title: "CineMatch",
     description:
       "A personalized movie recommendation system that helps users discover new movies based on their preferences.",
@@ -252,7 +264,7 @@ export const projects = [
   },
 
     {
-    id: 5,
+    id: 6,
     title: "SplitIQ",
     description: "A webapp for tracking shared expenses.",
     image: "https://i.ibb.co/214s3Ng1/Screenshot-2025-05-09-185044.png",
@@ -264,7 +276,7 @@ export const projects = [
   
 
    {
-    id: 6,
+    id: 7,
     title: "Bondr",
     description: "A web application designed for real time chat",
     image: "https://i.ibb.co/ZqTwcjk/bondr.jpg",
@@ -276,7 +288,7 @@ export const projects = [
   
   
   {
-    id: 7,
+    id: 8,
     title: "Swiftly",
     description: "A web application designed for E-Commerce",
     image: "https://i.ibb.co/Z1X8trVr/swiftly.jpg",
@@ -286,35 +298,8 @@ export const projects = [
     webapp: "https://swiftly-shop.onrender.com",
   },
  
-  {
-    id: 8,
-    title: "Mend",
-    description: "A modern social media Web App powered by Next.js",
-    image: "https://i.ibb.co/FL0S9YgJ/mend.jpg",
-    tags: [ "Next.js", "PostgreSQL", "TailwindCSS"],
-    category: ["web app"],
-    github: "https://github.com/080bct12alex/mend-Heal-together-grow-together",
-    webapp: "https://mend-one.vercel.app",
-  },
-
- 
-  
-  
-  {
+ {
     id: 9,
-    title: "Mend",
-    description: "A Social media Mobile Application to reconnect and grow.",
-    image: "https://i.ibb.co/GQtG31JK/4810f570-5b4c-4099-9e7b-5280500bc279.jpg",
-    tags: ["React Native", "EXPO", "Supabase"],
-    category: ["android app"],
-    github: "https://github.com/080bct12alex/Mend",
-    webapp: "https://www.upload-apk.com/en/d9Pcrmv5txqXwRg",
-  },
-
-
-
-  {
-    id: 10,
     title: "EasyRyde",
     description: "An app to find your ideal ride effortlessly.",
     image: "https://i.ibb.co/60n3d9cP/af39b36e-0914-4505-8878-f38b3d1bad3a.jpg",
