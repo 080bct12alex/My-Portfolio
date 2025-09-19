@@ -122,8 +122,8 @@ export const skills = [
         image:
           "https://miro.medium.com/v2/resize:fit:1260/0*Xhd9l-Sd1Yd-diwh.png",
       },
-         {
-        name: "Play Wright,
+      {
+        name: "Play Wright",
         image:
           "https://api.nuget.org/v3-flatcontainer/microsoft.playwright/1.55.0/icon",
       },
