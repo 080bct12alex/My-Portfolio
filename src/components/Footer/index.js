@@ -102,9 +102,12 @@ function Footer() {
           <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>
+  {/* 
+               <Copyright>
           &copy; 2025 Alex Shrestha. All rights reserved.
         </Copyright>
+            */}
+        
 
       </FooterWrapper>
     </FooterContainer>
