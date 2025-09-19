@@ -2,12 +2,14 @@ export const Bio = {
   name: "Alex Shrestha",
   roles: [
     "Full Stack Web Developer",
+    "AI Software Engineer",
     "App Developer",
     "ML enthusiast",
+    
  
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning, I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I am a motivated and versatile developer with a passion for  full-stack development ,AI integration and building modern web and mobile applications.  I thrive on bringing innovative AI-powered solutions to life.  I am continuously learning and growing in areas like machine learning, data science, and advanced development frameworks, always eager to take on new challenges and deliver high-quality results.",
   github: "https://github.com/080bct12alex",
   resume: process.env.PUBLIC_URL + "/resume.pdf",
   linkedin: "https://www.linkedin.com/in/alexstha310/",
@@ -40,9 +42,15 @@ export const skills = [
         image: "https://nodejs.org/static/images/logo.svg",
       },
       {
-        name: "Express Js",
+        name: "Express",
         image:
           "https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo-thumbnail.png",
+      },
+
+      {
+        name: "FastAPI",
+        image:
+          "https://res.cloudinary.com/harendra21/image/upload/v1742473055/withcodeexample.com/getting-started-with-python-fastapi-a-comprehensive-guide_tnigh2.jpg",
       },
       {
         name: "MongoDB",
@@ -55,11 +63,7 @@ export const skills = [
           "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png",
       },
 
-          {
-        name: "FastAPI",
-        image:
-          "https://res.cloudinary.com/harendra21/image/upload/v1742473055/withcodeexample.com/getting-started-with-python-fastapi-a-comprehensive-guide_tnigh2.jpg",
-      },
+          
 
       
           {
@@ -85,17 +89,56 @@ export const skills = [
           "https://www.stackhero.io/assets/src/images/servicesLogos/openGraphVersions/docker.png?d87f4381",
       },
       
-    
+     {
+        name: "Redux",
+        image:
+          "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTN22n_MGsVpM4tDXIi22XaT2uvw2V3hdIhSX9fg3pLs3QJju6_uddGiaWzxJv7CYBalSH12fibb6VSQFWJ1mTRDSFx-e8XufxrXv79g",
+      },
+        {
+        name: "Zustand",
+        image:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpHj4UwTW4ANSlNjzQOiiOqfDa6kal9RpF0A&s",
+      },
+      
+       {
+        name: "Mongoose",
+        image:
+          "https://media.licdn.com/dms/image/v2/D4D12AQEk8opKsyHhRQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1693917399837?e=2147483647&v=beta&t=L_IQgiz-aKgF-m3L2lYQxNFCwIKvn09DwxghjuWIF-I",
+      },
+      
+       {
+        name: "Prisma",
+        image:"https://avatars.githubusercontent.com/u/17219288?s=200&v=4",
+      },
+   
       {
         name: "Postman",
         image:
           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7112eGT4aGSghvAHq7i6rmgPOfsSowHFe3A&s",
       },
+
+         {
+        name: "Github Actions",
+        image:
+          "https://miro.medium.com/v2/resize:fit:1260/0*Xhd9l-Sd1Yd-diwh.png",
+      },
+         {
+        name: "Play Wright,
+        image:
+          "https://api.nuget.org/v3-flatcontainer/microsoft.playwright/1.55.0/icon",
+      },
       {
         name: "Figma",
         image:
           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS62LVhts8-ERiNmlrfHQShVXasUYH38KKSRw&s",
+      },  
+      {
+        name: "Appwrite",
+        image:
+          "https://appwrite.io/assets/logomark/logo.png",
       },
+      
+      
       {
         name: "Vercel",
         image:
@@ -111,6 +154,8 @@ export const skills = [
         image:
           "https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg",
       },
+
+  
     ],
   },
   {
@@ -129,12 +174,22 @@ export const skills = [
     ],
   },
   {
-    title: "Machine Learning",
+    title: "AI/ML",
     skills: [
       {
         name: "Python",
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+      },
+      {
+        name: "LangChain",
+        image:
+          "https://api.nuget.org/v3-flatcontainer/langchain.core/0.17.0/icon",
+      },
+      {
+        name: "LangGraph",
+        image:
+          "https://a.fsdn.com/allura/s/langgraph/icon?20e7fc993531dca85bab369a3d3ccaf63d1d2d4e4f0a6432c50c0a8a7491ad4d?&w=148",
       },
       {
         name: "scikit-learn",
@@ -162,11 +217,7 @@ export const skills = [
           "https://avatars.githubusercontent.com/u/22799945?s=280&v=4",
       },
 
-      {
-        name: "LangChain",
-        image:
-          "https://api.nuget.org/v3-flatcontainer/langchain.core/0.17.0/icon",
-      },
+      
     ],
   },
 ];
@@ -203,10 +254,22 @@ export const projects = [
     github: "https://github.com/080bct12alex/MedixUI",
     webapp: "https://medix-neon.vercel.app",
   },
-
   
   {
     id: 1,
+    title: "Bondr",
+    description: "A web application designed for real time chat",
+    image: "https://i.ibb.co/ZqTwcjk/bondr.jpg",
+    tags: ["MERN", "Socket.io",  "JWT"],
+    category: ["web app"],
+    github: "https://github.com/080bct12alex/Bondr-Swipe.Chat.Bond",
+    webapp: "https://bondr.onrender.com",
+  },
+  
+
+  
+  {
+    id: 2,
     title: "NepalEstate",
     description: "A real estate price prediction web app using machine learning, Next.js and Flask",
     image: "https://i.ibb.co/zTvw3T4W/Capture.png",
@@ -217,7 +280,7 @@ export const projects = [
   },
 
     {
-    id: 2,
+    id: 3,
     title: "AVL Tree Visualizer",
     description: "An interactive tool for visualizing AVL Tree.",
     image: "https://i.ibb.co/QjjgP9Xc/ds-avl.png",
@@ -230,7 +293,7 @@ export const projects = [
   
 
   {
-    id: 3,
+    id: 4,
     title: "AlexAI",
     description: "An AI-powered chatbot application.",
     image: "https://i.ibb.co/hF24KVJT/Screenshot-2025-05-11-163948.png",
@@ -241,7 +304,7 @@ export const projects = [
   },
   
     {
-    id: 4,
+    id: 5,
     title: "Travel Companion AI",
     description: "An AI-powered smart travel planner with real-time flight data.",
     image: "https://i.ibb.co/PZHxcTx9/Capture.png",
@@ -252,7 +315,7 @@ export const projects = [
   },
 
     {
-    id: 5,
+    id: 6,
     title: "CineMatch",
     description:
       "A personalized movie recommendation system that helps users discover new movies based on their preferences.",
@@ -264,7 +327,7 @@ export const projects = [
   },
 
     {
-    id: 6,
+    id: 7,
     title: "SplitIQ",
     description: "A webapp for tracking shared expenses.",
     image: "https://i.ibb.co/214s3Ng1/Screenshot-2025-05-09-185044.png",
@@ -275,17 +338,7 @@ export const projects = [
   },
   
 
-   {
-    id: 7,
-    title: "Bondr",
-    description: "A web application designed for real time chat",
-    image: "https://i.ibb.co/ZqTwcjk/bondr.jpg",
-    tags: ["MERN", "Socket.io",  "JWT"],
-    category: ["web app"],
-    github: "https://github.com/080bct12alex/Bondr-Swipe.Chat.Bond",
-    webapp: "https://bondr.onrender.com",
-  },
-  
+
   
   {
     id: 8,
