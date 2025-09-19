@@ -27,10 +27,15 @@ const Navbar = () => {
         <NavItems>
           <NavLink href="#about">About</NavLink>
           <NavLink href='#skills'>Skills</NavLink>
-          <NavLink href='#experience'>Experience</NavLink>
+         
+      {/* 
+       <NavLink href='#experience'>Experience</NavLink>  
+      */}
           <NavLink href='#projects'>Projects</NavLink>
           <NavLink href='#education'>Education</NavLink>
            <NavLink href='#contact'>Contact</NavLink>
+
+     
   
         </NavItems>
         <ButtonContainer>
@@ -45,9 +50,13 @@ const Navbar = () => {
             <MobileLink href='#skills' onClick={() => {
               setIsOpen(!isOpen)
             }}>Skills</MobileLink>
-            <MobileLink href='#experience' onClick={() => {
+          
+         {/* 
+             <MobileLink href='#experience' onClick={() => {
               setIsOpen(!isOpen)
-            }}>Experience</MobileLink>
+            }}>Experience</MobileLink> 
+        */}
+           
             <MobileLink href='#projects' onClick={() => {
               setIsOpen(!isOpen)
             }}>Projects</MobileLink>
