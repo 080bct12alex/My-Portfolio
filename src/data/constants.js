@@ -412,19 +412,10 @@ export const projects = [
   },
 
 
-  {
-    id: 4,
-    title: "Swiftly",
-    description: "An E-Commerce app.",
-    image: "https://i.ibb.co/Z1X8trVr/swiftly.jpg",
-    tags: ["MERN", "Redis", "Stripe", "JWT"],
-    category: ["web app"],
-    github: "https://github.com/080bct12alex/swiftly-click.shop.smile",
-    webapp: "https://swiftly-shop.onrender.com",
-  },
+  
 
   {
-    id: 5,
+    id: 4,
     title: "NepalEstate",
     description: "A real estate price prediction app. ",
     image: "https://i.ibb.co/zTvw3T4W/Capture.png",
