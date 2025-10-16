@@ -4,10 +4,7 @@ export const Bio = {
     "Full Stack Developer",
     "AI Software Engineer",
     
-    
-    
- 
-  ],
+     ],
   description:
     " A motivated and versatile developer with a passion for  full-stack development ,AI integration and building modern web and mobile applications.",
   github: "https://github.com/080bct12alex",
@@ -402,19 +399,18 @@ export const projects = [
     github: "https://github.com/080bct12alex/Bondr-Swipe.Chat.Bond",
     webapp: "https://bondr.onrender.com",
   },
-  
 
-  
-  {
+   {
     id: 3,
-    title: "NepalEstate",
-    description: "A real estate price prediction app. ",
-    image: "https://i.ibb.co/zTvw3T4W/Capture.png",
-    tags: ["Machine Learning", "Data Science", "MlP Regressor", "Scikit-learn","NextJS"],
-    category: ["machine learning", "web app"],
-    github: "https://github.com/080bct12alex/Nepalestate",
-    webapp: "https://nepalestate.vercel.app",
+    title: "Swiftly",
+    description: "An E-Commerce app.",
+    image: "https://i.ibb.co/Z1X8trVr/swiftly.jpg",
+    tags: ["MERN", "Redis", "Stripe", "JWT"],
+    category: ["web app"],
+    github: "https://github.com/080bct12alex/swiftly-click.shop.smile",
+    webapp: "https://swiftly-shop.onrender.com",
   },
+
 
   {
     id: 4,
@@ -427,6 +423,16 @@ export const projects = [
     webapp: "https://swiftly-shop.onrender.com",
   },
 
+  {
+    id: 5,
+    title: "NepalEstate",
+    description: "A real estate price prediction app. ",
+    image: "https://i.ibb.co/zTvw3T4W/Capture.png",
+    tags: ["Machine Learning", "Data Science", "MlP Regressor", "Scikit-learn","NextJS"],
+    category: ["machine learning", "web app"],
+    github: "https://github.com/080bct12alex/Nepalestate",
+    webapp: "https://nepalestate.vercel.app",
+  },
   {
     id: 5,
     title: "CineMatch",
