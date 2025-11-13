@@ -128,12 +128,12 @@ export const skills = [
         image:
           "https://img.stackshare.io/service/41143/default_f1d33b63d360437ba28c8ac981dd68d7d2478b22.png",
       },
-/*
+
       {
         name: "Appwrite",
         image:
           "https://appwrite.io/assets/logomark/logo.png",
-      },*/
+      },
 
       {
         name: "Mongoose",
@@ -309,6 +309,14 @@ export const skills = [
         image:
           "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langsmith.png",
       },
+
+   {
+        name: "ChromaDB",
+        image:
+          "https://www.trychroma.com/img/favicon.ico",
+      },
+      
+      
       {
         name: "scikit-learn",
         image:
@@ -329,13 +337,13 @@ export const skills = [
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png",
       },
-      /*
+      
       {
         name: "Seaborn",
         image:
           "https://cdn.worldvectorlogo.com/logos/seaborn-1.svg",
       },
-     */
+     
       
     ],
   },
