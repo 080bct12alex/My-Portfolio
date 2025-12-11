@@ -104,17 +104,19 @@ export const skills = [
           "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAV1BMVEVHcEwNl0cNl0gOl0gMlkYOmEcNl0gNl0gOl0gNl0gNl0gOl0gOl0gHlkYAlUMmnlU1pGHr9/H////K6NdKrnN3wJNTs3qn0bW73skAkTjP6dmBxZxwuottpFM/AAAADXRSTlMAWeAUQbn/j/KC2MCzV8aAaAAAAMFJREFUeAGF0wUSgDAMBECkBK0Fl/9/EwkuGW68W2/jXON6nut8xhcBzAnEh4kwAkoUPtmPEziSxP7V3BRuSd2DRBbBI1EmiPyQSCq5gZTENLcAijZ6U6OBInaUxmJeKABQJVojb6gqRMzNrKpGpF4PxAYkj1i3HDYdYtkyWBcWbdUy2FazGg7bHrFrGIRlTuRQ6oZHUCYnfF6fHZYmWXRotbwiXTxQpL5c/PFkx4up48n4x/7/JvwH+/+aP5+aKYcJ/UsWvyxQz4gAAAAASUVORK5CYII=",
       },
 
-      {
+      /*{
         name: "GraphQL",
         image:
           "https://graphql-go.github.io/graphql-go.org/img/GraphQL_Logo.png",
-      },
+      },*/
 
       {
         name: "MongoDB",
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
       },
+    
+       /*
       {
         name: "PostgreSQL",
         image:
@@ -134,7 +136,7 @@ export const skills = [
         image:
           "https://appwrite.io/assets/logomark/logo.png",
       },
-
+   
       {
         name: "Mongoose",
         image:
@@ -151,13 +153,21 @@ export const skills = [
         image:
           "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png",
       },
+      */
 
       {
         name: "Redis",
         image:
           "https://gbnz.gallerycdn.vsassets.io/extensions/gbnz/redis-cache-clear/2.0.12/1677930191555/Microsoft.VisualStudio.Services.Icons.Default",
       },
+      
+      {
+        name: "Socket.IO",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg",
+      },
 
+/*
       {
         name: "Kafka",
         image:
@@ -165,12 +175,7 @@ export const skills = [
       },
 
 
-      {
-        name: "Socket.IO",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg",
-      },
-
+    
       
 
       {
@@ -178,7 +183,7 @@ export const skills = [
         image:
           "https://trueconf.com/images/webrtc/header/webrtc-logo.svg",
       },
-
+*/
 
     
       
@@ -204,7 +209,7 @@ export const skills = [
         image:
           "https://www.stackhero.io/assets/src/images/servicesLogos/openGraphVersions/docker.png?d87f4381",
       },
-
+/*
       {
         name: "K8s",
         image:
@@ -239,7 +244,7 @@ export const skills = [
         image:
           "https://kineticit.com.au/wp-content/uploads/2022/10/AWS_logo.png",
       },
-      
+     */ 
      
       {
         name: "Vercel",
@@ -252,6 +257,7 @@ export const skills = [
           "https://cdn.sanity.io/images/34ent8ly/production/ec37a3660704e1fa2b4246c9a01ab34e145194ad-824x824.png",
       },
 
+      /*
       {
         name: "Prometheus",
         image:
@@ -264,7 +270,7 @@ export const skills = [
         image:
           "https://www.kozhuhds.com/_astro/grafana.3b7f87f7_ZOKT2t.webp",
       },
-  
+  */
 
   
     ],
